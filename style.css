@@ -1,0 +1,38 @@
+
+.codigo{
+	font-family: "Bebas Neue",arial,serif;
+	font-size: 22px;
+	text-align: center;
+}
+
+h4{
+	text-align: center;
+}
+
+div.estudiante{
+    padding: 10px;
+    margin: 3px;
+    float: left;
+    width: 250px;
+    height: 180px;
+    /* border-bottom-style: inset; */
+    border-style: double;
+    border-color: rgba(88,62,120,0.3);
+}
+
+div.tweet{
+	padding-top: inherit;
+    float: left;
+}
+
+div.titulo{
+	background-color: rgb(88,62,120);
+    color: white;
+    text-align: center;
+}
+
+img{
+
+	width: 10%;
+	border-radius: 100%;
+}
